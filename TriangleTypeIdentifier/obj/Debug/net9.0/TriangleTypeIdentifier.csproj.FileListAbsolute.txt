@@ -1,0 +1,14 @@
+/Users/macbookpro/Documents/dcit318-assignment1/TriangleTypeIdentifier/bin/Debug/net9.0/TriangleTypeIdentifier
+/Users/macbookpro/Documents/dcit318-assignment1/TriangleTypeIdentifier/bin/Debug/net9.0/TriangleTypeIdentifier.deps.json
+/Users/macbookpro/Documents/dcit318-assignment1/TriangleTypeIdentifier/bin/Debug/net9.0/TriangleTypeIdentifier.runtimeconfig.json
+/Users/macbookpro/Documents/dcit318-assignment1/TriangleTypeIdentifier/bin/Debug/net9.0/TriangleTypeIdentifier.dll
+/Users/macbookpro/Documents/dcit318-assignment1/TriangleTypeIdentifier/bin/Debug/net9.0/TriangleTypeIdentifier.pdb
+/Users/macbookpro/Documents/dcit318-assignment1/TriangleTypeIdentifier/obj/Debug/net9.0/TriangleTypeIdentifier.GeneratedMSBuildEditorConfig.editorconfig
+/Users/macbookpro/Documents/dcit318-assignment1/TriangleTypeIdentifier/obj/Debug/net9.0/TriangleTypeIdentifier.AssemblyInfoInputs.cache
+/Users/macbookpro/Documents/dcit318-assignment1/TriangleTypeIdentifier/obj/Debug/net9.0/TriangleTypeIdentifier.AssemblyInfo.cs
+/Users/macbookpro/Documents/dcit318-assignment1/TriangleTypeIdentifier/obj/Debug/net9.0/TriangleTypeIdentifier.csproj.CoreCompileInputs.cache
+/Users/macbookpro/Documents/dcit318-assignment1/TriangleTypeIdentifier/obj/Debug/net9.0/TriangleTypeIdentifier.dll
+/Users/macbookpro/Documents/dcit318-assignment1/TriangleTypeIdentifier/obj/Debug/net9.0/refint/TriangleTypeIdentifier.dll
+/Users/macbookpro/Documents/dcit318-assignment1/TriangleTypeIdentifier/obj/Debug/net9.0/TriangleTypeIdentifier.pdb
+/Users/macbookpro/Documents/dcit318-assignment1/TriangleTypeIdentifier/obj/Debug/net9.0/TriangleTypeIdentifier.genruntimeconfig.cache
+/Users/macbookpro/Documents/dcit318-assignment1/TriangleTypeIdentifier/obj/Debug/net9.0/ref/TriangleTypeIdentifier.dll
