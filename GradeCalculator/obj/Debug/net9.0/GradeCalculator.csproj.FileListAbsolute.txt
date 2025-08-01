@@ -1,0 +1,15 @@
+/Users/macbookpro/Documents/dcit318-assignment1/GradeCalculator/bin/Debug/net9.0/GradeCalculator
+/Users/macbookpro/Documents/dcit318-assignment1/GradeCalculator/bin/Debug/net9.0/GradeCalculator.deps.json
+/Users/macbookpro/Documents/dcit318-assignment1/GradeCalculator/bin/Debug/net9.0/GradeCalculator.runtimeconfig.json
+/Users/macbookpro/Documents/dcit318-assignment1/GradeCalculator/bin/Debug/net9.0/GradeCalculator.dll
+/Users/macbookpro/Documents/dcit318-assignment1/GradeCalculator/bin/Debug/net9.0/GradeCalculator.pdb
+/Users/macbookpro/Documents/dcit318-assignment1/GradeCalculator/obj/Debug/net9.0/GradeCalculator.GeneratedMSBuildEditorConfig.editorconfig
+/Users/macbookpro/Documents/dcit318-assignment1/GradeCalculator/obj/Debug/net9.0/GradeCalculator.AssemblyInfoInputs.cache
+/Users/macbookpro/Documents/dcit318-assignment1/GradeCalculator/obj/Debug/net9.0/GradeCalculator.AssemblyInfo.cs
+/Users/macbookpro/Documents/dcit318-assignment1/GradeCalculator/obj/Debug/net9.0/GradeCalculator.csproj.CoreCompileInputs.cache
+/Users/macbookpro/Documents/dcit318-assignment1/GradeCalculator/obj/Debug/net9.0/GradeCalculator.dll
+/Users/macbookpro/Documents/dcit318-assignment1/GradeCalculator/obj/Debug/net9.0/refint/GradeCalculator.dll
+/Users/macbookpro/Documents/dcit318-assignment1/GradeCalculator/obj/Debug/net9.0/GradeCalculator.pdb
+/Users/macbookpro/Documents/dcit318-assignment1/GradeCalculator/obj/Debug/net9.0/GradeCalculator.genruntimeconfig.cache
+/Users/macbookpro/Documents/dcit318-assignment1/GradeCalculator/obj/Debug/net9.0/ref/GradeCalculator.dll
+/Users/macbookpro/Documents/dcit318-assignment1/GradeCalculator/obj/Debug/net9.0/GradeCalculator.sourcelink.json
