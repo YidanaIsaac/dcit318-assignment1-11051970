@@ -1,0 +1,14 @@
+/Users/macbookpro/Documents/dcit318-assignment1/TicketPriceCalculator/bin/Debug/net9.0/TicketPriceCalculator
+/Users/macbookpro/Documents/dcit318-assignment1/TicketPriceCalculator/bin/Debug/net9.0/TicketPriceCalculator.deps.json
+/Users/macbookpro/Documents/dcit318-assignment1/TicketPriceCalculator/bin/Debug/net9.0/TicketPriceCalculator.runtimeconfig.json
+/Users/macbookpro/Documents/dcit318-assignment1/TicketPriceCalculator/bin/Debug/net9.0/TicketPriceCalculator.dll
+/Users/macbookpro/Documents/dcit318-assignment1/TicketPriceCalculator/bin/Debug/net9.0/TicketPriceCalculator.pdb
+/Users/macbookpro/Documents/dcit318-assignment1/TicketPriceCalculator/obj/Debug/net9.0/TicketPriceCalculator.GeneratedMSBuildEditorConfig.editorconfig
+/Users/macbookpro/Documents/dcit318-assignment1/TicketPriceCalculator/obj/Debug/net9.0/TicketPriceCalculator.AssemblyInfoInputs.cache
+/Users/macbookpro/Documents/dcit318-assignment1/TicketPriceCalculator/obj/Debug/net9.0/TicketPriceCalculator.AssemblyInfo.cs
+/Users/macbookpro/Documents/dcit318-assignment1/TicketPriceCalculator/obj/Debug/net9.0/TicketPriceCalculator.csproj.CoreCompileInputs.cache
+/Users/macbookpro/Documents/dcit318-assignment1/TicketPriceCalculator/obj/Debug/net9.0/TicketPriceCalculator.dll
+/Users/macbookpro/Documents/dcit318-assignment1/TicketPriceCalculator/obj/Debug/net9.0/refint/TicketPriceCalculator.dll
+/Users/macbookpro/Documents/dcit318-assignment1/TicketPriceCalculator/obj/Debug/net9.0/TicketPriceCalculator.pdb
+/Users/macbookpro/Documents/dcit318-assignment1/TicketPriceCalculator/obj/Debug/net9.0/TicketPriceCalculator.genruntimeconfig.cache
+/Users/macbookpro/Documents/dcit318-assignment1/TicketPriceCalculator/obj/Debug/net9.0/ref/TicketPriceCalculator.dll
